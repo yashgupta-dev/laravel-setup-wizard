@@ -1,7 +1,7 @@
 {
     "name": "codecorner/laravel-setup-wizard",
     "description": "Browser setup wizard that starts automatically on `php artisan serve` for a fresh Laravel project.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "library",
     "license": "MIT",
     "require": {
